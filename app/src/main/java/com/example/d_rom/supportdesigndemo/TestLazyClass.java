@@ -5,8 +5,8 @@ package com.example.d_rom.supportdesigndemo;
  */
 public class TestLazyClass {
 
-    private int mLazyValueA = 2;
-    private int mLazyValueB = 2000;
+    private int mLazyValueA = 3;
+    private int mLazyValueB = 3000;
 
     public int getLazyValueA() {
         return mLazyValueA;
